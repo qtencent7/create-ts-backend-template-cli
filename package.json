@@ -1,0 +1,13 @@
+{
+  "name": "create-ts-backend-template-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "ts-backend-template-cli": "index.js"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "isomorphic-git": "^1.26.3"
+  }
+}
